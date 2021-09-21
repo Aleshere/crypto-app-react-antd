@@ -1,3 +1,26 @@
+# For crypto enthusiasts: info, charts, news of top 100 crypto currencies.  
+## Filtering - Well designed - Mobile Responsive.   
+
+# What I used
+> react jsx    
+> ant design  
+> react redux toolkit        
+> react hooks (state & effect)      
+> conditional rendering         
+> rapid and bing api        
+> react router dom useParams      
+> millify and moment    
+> chart js  
+> HTML react parses  
+> netlify deployment via github repo     
+      
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
