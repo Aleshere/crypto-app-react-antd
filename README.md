@@ -14,7 +14,7 @@
 > HTML react parses  
 > netlify deployment via github repo     
       
-&nbsp;
+&nbsp; 
 &nbsp;
 &nbsp;
 &nbsp;
