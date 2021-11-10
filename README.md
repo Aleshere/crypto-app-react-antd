@@ -12,7 +12,7 @@
 > millify and moment    
 > chart js  
 > HTML react parses  
-> netlify deployment via github repo     
+> netlify deployment via github repo      
       
 &nbsp; 
 &nbsp;
